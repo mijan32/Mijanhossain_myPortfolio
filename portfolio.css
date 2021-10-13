@@ -1,0 +1,34 @@
+.fab{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 50%;
+}
+.fab:hover{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 50%;
+}
+.card{
+    width: 18rem;
+    height: 420px;
+}
+.card-img-top{
+    height: 200px ;
+}
+#carouselExampleControls{
+    text-align: center;
+}
+@media screen and (max-width: 1000px){
+    .mywork-container{
+        display:none;
+    }
+}
+@media  screen and (min-width: 1000px) {
+    #carouselExampleControls{
+        display: none;
+    }
+}
