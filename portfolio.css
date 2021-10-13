@@ -1,0 +1,14 @@
+.fab{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 50%;
+}
+.fab:hover{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 50%;
+}
